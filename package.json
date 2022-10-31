@@ -1,0 +1,26 @@
+{
+  "name": "tusima-onchain-hash",
+  "version": "1.0.0",
+  "description": "getting the on-chain hash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwanwang-0/tusima-onchain-hash.git"
+  },
+  "author": "Iwan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iwanwang-0/tusima-onchain-hash/issues"
+  },
+  "homepage": "https://github.com/iwanwang-0/tusima-onchain-hash#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.0.0-beta.0"
+  }
+}
